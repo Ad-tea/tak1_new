@@ -10,7 +10,7 @@
     background-color: black;
     color: white;
     /* transition-delay: 1s; */
-    transition-duration: 2s;
+    transition-duration: 4s;
     /* duration will give smoothness in transition  */
     transition-property:height, color;
 /* transition property will befine whoes transition will be done only the thiungs mentiones will transition  */
