@@ -1,0 +1,22 @@
+.firstbox{
+    border: black 2px solid;
+}
+/* ID IS GIVEN THE PRIORITY */
+#internal_ul{
+    background-color: burlywood;
+}
+
+h2{
+    background-color: orange;
+}
+p[name="first_p_tag"]{
+background-color: orchid;
+}
+body{
+    background-color: rgb(87, 87, 8);
+}
+img{
+    border-radius: 5%;
+}
+
+
